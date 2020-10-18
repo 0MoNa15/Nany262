@@ -1,8 +1,7 @@
-<img src="./static/images/hello.gif" width="80">
+<img src="./static/images/hello.gif" width="200">
 
 
-Daniela Zuluaga
-======
+# I'm Daniela Zuluaga
 *🎓 Computer Engineer*
 
 👩‍💻 I work as a Automation Engineer
