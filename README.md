@@ -4,6 +4,6 @@
 # I'm Daniela Zuluaga
 *🎓 Computer Engineer*
 
-👩‍💻 I work as a Automation Engineer
+👩‍💻 I work as a QA Automation Engineer
 
 💗 I like Python, Java and Javascript
