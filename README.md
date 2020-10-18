@@ -6,4 +6,4 @@
 
 👩‍💻 I work as a Automation Engineer
 
-💗 I like Python and Javascript
+💗 I like Python, Java and Javascript
